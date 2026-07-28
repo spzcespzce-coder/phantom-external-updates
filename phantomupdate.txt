@@ -1,2 +1,2 @@
-1.1
+1.0
 https://github.com/spzcespzce-coder/phantom-external-updates/releases/download/v1.1/Phantom.exe
